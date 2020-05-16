@@ -1,9 +1,9 @@
 # fluent-bit-go-sls
 
-A output plugin for Aliyun SLS
+An output plugin (Go) for Aliyun Simple Log Service (SLS)
 
 Travis CI:
-[![Build Status](https://travis-ci.com/mengskysama/fluent-bit-go-sls.svg?branch=master)](https://travis-ci.org/fluent/fluent-bit)
+[![Build Status](https://travis-ci.com/mengskysama/fluent-bit-go-sls.svg?branch=master)](https://travis-ci.org/mengskysama/fluent-bit-go-sls)
 
 ### Build
 
